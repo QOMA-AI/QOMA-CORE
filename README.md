@@ -1,4 +1,4 @@
-# Metamorphic Contract Detector
+# QOMA Metamorphic Contract Detector
 
 ![Metamorphic Contract Detector](images/anatomy.jpg)
 
